@@ -1,4 +1,4 @@
-# CheckMyGrade (Lab 1 starter)
+# CheckMyGrade (Lab 1 starter in my Masters course in San Jose State {subject: DATA200, i.e. Python})
 
 Console-based Python app for managing students, courses, professors, and grades using CSV persistence.
 
