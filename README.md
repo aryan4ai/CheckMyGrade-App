@@ -1,5 +1,7 @@
 # CheckMyGrade (Lab 1 starter in my Masters course in San Jose State {subject: DATA200, i.e. Python})
 
+Overview: This app has the ability to record student information, professor details, course information, and grade information.
+
 Console-based Python app for managing students, courses, professors, and grades using CSV persistence.
 
 ## Files
